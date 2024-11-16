@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  z-index: 99; // para fazer ficar por cima de tudo
+  position: fixed;
+  background-color: #eee;
+}
+
+.fixed {
+  position: fixed;
+  background-color: rgb(252, 252, 252, 0.74);
+  box-shadow: 0px, 6px, 20px, -12px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0px, 6px, 20px, -12px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0px, 6px, 20px, -12px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+.background {
+  background-color: "#FFF"
+}
+
+
+// .container{
+
+// }
+
+// .content{
+
+// }
+
+// .contentLogo{
+
+// }
+
+// .nav{
+
+// }
