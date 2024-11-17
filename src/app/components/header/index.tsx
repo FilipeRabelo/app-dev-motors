@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import styles from './styles.module.scss';
 import Link from 'next/link';
 
-
 export function Header() {
 
   const [top, setTop] = useState(true);
@@ -18,7 +17,6 @@ export function Header() {
     window.addEventListener('scroll', scrollHandler);
 
     return () => window.removeEventListener('scroll', scrollHandler);
-    
   }, [top])
 
   return (

@@ -1,0 +1,6 @@
+{
+  "workbench.editor.titleScrollbarSizing": "large",
+  "doxdocgen.generic.linesToGet": 2,
+  "editor.lineHeight": 21,
+  "editor.renderLineHighlight": "gutter"
+}
