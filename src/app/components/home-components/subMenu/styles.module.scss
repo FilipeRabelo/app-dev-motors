@@ -2,6 +2,8 @@
   margin: 0 auto;
   max-width: 1280px;
   padding: 64px 14px 4px 14px;
+
+  background-color: "#FFF";
 }
 
 .subMenuIcon{
@@ -20,9 +22,7 @@
   gap: 9px;
 
   li a{
-    // background-color: #121212;
-    background-color: #fff;
-    color: #121212;
+    background-color: #121212;
     color: #FFF;
     padding: 8px 14px;
     border-radius: 5px;
