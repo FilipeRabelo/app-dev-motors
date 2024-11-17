@@ -17,13 +17,16 @@
   display: none;
   list-style: none;
   padding: 14px 0;
+  gap: 9px;
 
   li a{
     // background-color: #121212;
     background-color: #fff;
+    color: #121212;
     color: #FFF;
     padding: 8px 14px;
     border-radius: 5px;
+    
   }
 }
 
