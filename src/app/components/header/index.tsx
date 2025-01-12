@@ -27,7 +27,7 @@ export function Header() {
 
           <div className={styles.contentLogo}>
             <Link href={'/'}>
-              Dev Motors
+              Dev Motors Plus
             </Link>
           </div>
 
